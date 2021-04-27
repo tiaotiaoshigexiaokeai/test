@@ -1,0 +1,14 @@
+/media/bobo/ff9ec359-e856-4f4d-9e23-d1d6d97f8c6f/work/gitcode/github/exam_app/zuoda/dev_exam_app_B/exam11/build/CMakeFiles/install/strip.dir
+/media/bobo/ff9ec359-e856-4f4d-9e23-d1d6d97f8c6f/work/gitcode/github/exam_app/zuoda/dev_exam_app_B/exam11/build/CMakeFiles/install.dir
+/media/bobo/ff9ec359-e856-4f4d-9e23-d1d6d97f8c6f/work/gitcode/github/exam_app/zuoda/dev_exam_app_B/exam11/build/CMakeFiles/install/local.dir
+/media/bobo/ff9ec359-e856-4f4d-9e23-d1d6d97f8c6f/work/gitcode/github/exam_app/zuoda/dev_exam_app_B/exam11/build/CMakeFiles/list_install_components.dir
+/media/bobo/ff9ec359-e856-4f4d-9e23-d1d6d97f8c6f/work/gitcode/github/exam_app/zuoda/dev_exam_app_B/exam11/build/CMakeFiles/edit_cache.dir
+/media/bobo/ff9ec359-e856-4f4d-9e23-d1d6d97f8c6f/work/gitcode/github/exam_app/zuoda/dev_exam_app_B/exam11/build/CMakeFiles/rebuild_cache.dir
+/media/bobo/ff9ec359-e856-4f4d-9e23-d1d6d97f8c6f/work/gitcode/github/exam_app/zuoda/dev_exam_app_B/exam11/build/src/CMakeFiles/install/strip.dir
+/media/bobo/ff9ec359-e856-4f4d-9e23-d1d6d97f8c6f/work/gitcode/github/exam_app/zuoda/dev_exam_app_B/exam11/build/src/CMakeFiles/edit_cache.dir
+/media/bobo/ff9ec359-e856-4f4d-9e23-d1d6d97f8c6f/work/gitcode/github/exam_app/zuoda/dev_exam_app_B/exam11/build/src/CMakeFiles/pkgverify.dir
+/media/bobo/ff9ec359-e856-4f4d-9e23-d1d6d97f8c6f/work/gitcode/github/exam_app/zuoda/dev_exam_app_B/exam11/build/src/CMakeFiles/rebuild_cache.dir
+/media/bobo/ff9ec359-e856-4f4d-9e23-d1d6d97f8c6f/work/gitcode/github/exam_app/zuoda/dev_exam_app_B/exam11/build/src/CMakeFiles/list_install_components.dir
+/media/bobo/ff9ec359-e856-4f4d-9e23-d1d6d97f8c6f/work/gitcode/github/exam_app/zuoda/dev_exam_app_B/exam11/build/src/CMakeFiles/install/local.dir
+/media/bobo/ff9ec359-e856-4f4d-9e23-d1d6d97f8c6f/work/gitcode/github/exam_app/zuoda/dev_exam_app_B/exam11/build/src/CMakeFiles/install.dir
+/media/bobo/ff9ec359-e856-4f4d-9e23-d1d6d97f8c6f/work/gitcode/github/exam_app/zuoda/dev_exam_app_B/exam11/build/src/CMakeFiles/pkgverify_autogen.dir

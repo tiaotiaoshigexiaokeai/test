@@ -1,0 +1,6 @@
+/home/bobo/Desktop/gitcode/github/exam_app/zuoda/dev_exam_app_A/exam10/build/CMakeFiles/rebuild_cache.dir
+/home/bobo/Desktop/gitcode/github/exam_app/zuoda/dev_exam_app_A/exam10/build/CMakeFiles/edit_cache.dir
+/home/bobo/Desktop/gitcode/github/exam_app/zuoda/dev_exam_app_A/exam10/build/src/CMakeFiles/rebuild_cache.dir
+/home/bobo/Desktop/gitcode/github/exam_app/zuoda/dev_exam_app_A/exam10/build/src/CMakeFiles/freedesktop.dir
+/home/bobo/Desktop/gitcode/github/exam_app/zuoda/dev_exam_app_A/exam10/build/src/CMakeFiles/edit_cache.dir
+/home/bobo/Desktop/gitcode/github/exam_app/zuoda/dev_exam_app_A/exam10/build/src/CMakeFiles/freedesktop_autogen.dir
